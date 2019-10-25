@@ -1,0 +1,24 @@
+/*h1 {*/
+/*    color: #0000FF;*/
+/*}*/
+
+/*h2 {*/
+/*    color: #FF0000;*/
+/*}*/
+
+/*table {*/
+/*    border-collapse: collapse;*/
+/*}*/
+
+table th, table {
+    border: 1px solid darkslategray;
+}
+
+table th, table td {
+    padding: 2px 25px;
+}
+
+.alert {
+    font-size: 2rem;
+    color: red;
+}
